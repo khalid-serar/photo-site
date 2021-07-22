@@ -30,7 +30,8 @@ max-height: 100%;
 font-weight: bold;
 letter-spacing: 4px;
 }
-
-
+body{
+    background-color: coral;
+}
 
 
